@@ -7,4 +7,3 @@ Jupyter notebooks illustrating some basic concepts
 
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/maj4e/jupyter_notebooks/blob/master/Differential_Equations.ipynb/master)
-
